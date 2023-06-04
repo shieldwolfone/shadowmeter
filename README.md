@@ -1,11 +1,12 @@
-![ShadowMeter](shadowmeter.png)
+![ShadowMeter](shadowmeter-dark.png#gh-dark-mode-only)
+![ShadowMeter](shadowmeter-light.png#gh-light-mode-only)
 
-What happens when you implement a Network Anomaly Detection System (NADS) using [nDPI](https://www.ntop.org/products/deep-packet-inspection/ndpi/) and [Tensorflow](https://www.tensorflow.org/)?  Well, let's try an experiment and find out.
+What happens when you implement a Network Anomaly Detection System (NADS) using [nDPI](https://www.ntop.org/products/deep-packet-inspection/ndpi/) and [Tensorflow](https://www.tensorflow.org/)?  Well, let's prototype an experiment and find out.
 # Motivation
 This project is a collaboration with the [nTop](https://ntop.org) team. It is motivated by the following:
 * Anomaly detection using unsupervised learning algorithmns is an effective way to detect zero-day attacks.
-* Implementing a network security software with Rust is good practice since it is designed for performance and safety.
-* nDPI includes advanced data features that make it ideal for deep learning.
+* Rust is a great modern language for implementing network security software since it is designed for performance, reliability, and safety.
+* nDPI includes advanced data science features that make it suitable for deep learning models.
 
 # Tentative schedule
 
